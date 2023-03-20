@@ -18,6 +18,7 @@
 # under the License.
 #
 
+set -e
 
 PREFIX=$HOME/.local
 
